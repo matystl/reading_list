@@ -2,7 +2,7 @@
 reading list implemented in clojure and clojurescript
 
 How to run this project:
-* 1. run autocompiling of cljx files with lein `cljx auto`
+* 1. run autocompiling of cljx files with `lein cljx auto`
 * 2. start server with `lein ring server`
 * 3. start client clojurescript compilation with `lein figwheel`
 
